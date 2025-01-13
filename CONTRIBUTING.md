@@ -1,0 +1,1 @@
+#This is the go to template for creating a project from scratch--- it includes signup login authentication user dashboard, admin page and 
